@@ -1,3 +1,3 @@
 <?php
-echo "Olá, <strong>Teste</strong>";
+echo "Olá, <strong>Gente legal</strong>";
 ?>
